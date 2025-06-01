@@ -64,4 +64,9 @@ We welcome PRs! for:
 * Improving error messages
 * Creating more examples
 
+## Community 💬
+
+Join us on:
+
+* Discord(https://discord.gg/JhS6u3Yt)
 
