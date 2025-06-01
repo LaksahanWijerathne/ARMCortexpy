@@ -1,6 +1,6 @@
 # ARMCortexpy 🐍⚙️
 
-**Pythonic syntax meets ARM Cortex-M performance**  
+**Pythonic syntax meets ARM Cortex performance**  
 *A transpiler that converts Python-like code to optimized STM32 HAL/C, making embedded development faster and more accessible.*
 
 ```python
