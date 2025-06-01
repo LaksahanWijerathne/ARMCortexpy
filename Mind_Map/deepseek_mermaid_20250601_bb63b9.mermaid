@@ -1,0 +1,93 @@
+mindmap
+  root((HahaLang))
+    Core Philosophy
+      "Pythonic syntax, C performance"
+      "No hidden magic"
+      "STM32 HAL transparency"
+      "Beginner-friendly but powerful"
+    
+    Components
+      Frontend (PyQt5)
+        Project Wizard
+          STM32 Chip Selector
+          Pin Mapping Canvas
+          Clock Configurator
+        Code Editor
+          Syntax Highlighting
+          Auto-complete
+          Error Squiggles
+        Project Manager
+          .ioc File Sync
+          CubeMX Launcher
+        
+      Transpiler Engine
+        Parser (Python AST → HahaAST)
+          Type Inference
+          Hardware Context Checker
+        Code Generator
+          HAL Optimizer
+            Direct register access for common ops
+          IRQ Handler Injector
+          Weak Callback Overrides
+        Error System
+          Hardware-aware Warnings
+          Fix-it Hints
+        
+      Backend
+        STM32CubeMX Integration
+          .ioc → HahaLang Config
+          Project File Patcher
+        Build System
+          Makefile Generator
+          ST-Link Flasher
+          Size Optimizer
+        
+      Runtime
+        HahaRuntime.c
+          Setup/Loop Scheduler
+          Dynamic Callback System
+          Safe Memory Allocator
+    
+    Development Phases
+      Phase 1: MVP (F103 Blue Pill)
+        GPIO Control
+        Timer Interrupts
+        UART Echo
+      Phase 2: Hardware Accelerated
+        PWM Generation
+        ADC with DMA
+        I2C Sensor Drivers
+      Phase 3: Advanced
+        RTOS Integration
+        USB CDC Support
+        Filesystem Abstraction
+    
+    Toolchain
+      Required
+        STM32CubeMX
+        ARM GCC
+        OpenOCD
+      Optional
+        LLVM for Optimization
+        CLion for Debugging
+    
+    Testing Strategy
+      Hardware-in-Loop CI
+        F103 Test Jig
+        Automated Probe
+      Unit Tests
+        HAL Mocking
+        Timing Validation
+    
+    Documentation
+      "From Python to Blinking LED"
+      API Reference
+        Annotated HAL Mappings
+      Video Tutorials
+        "Your First HahaLang Firmware"
+        "Debugging with STM32CubeIDE"
+    
+    Community Building
+      GitHub Template Repo
+      Discord Channel
+      "HahaLang Challenge" Contests
