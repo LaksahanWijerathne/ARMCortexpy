@@ -1,0 +1,5 @@
+[Output Console]
+● Building blink.acpy → STM32F411...
+✔ Compiled: 12.4KB (84% free)
+✔ Flashed via ST-Link
+● Ready - Reset the board!

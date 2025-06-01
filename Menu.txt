@@ -1,0 +1,6 @@
+[UART2]
+├── Baud Rate: 115200 ▼
+├── Mode: Full Duplex
+└── Advanced ▼
+    ├── DMA: Channel 4
+    └── IRQ Priority: 1
