@@ -1,16 +1,16 @@
-ARMCortexpy Commercial & Source-Available License
+PyMCUcore Commercial & Source-Available License
 
 Copyright (c) 2025 KRDW Laksahan Wijerathna
 
-IMPORTANT: READ CAREFULLY. THIS LICENSE AGREEMENT (“AGREEMENT”) GOVERNS THE USE OF THE ARMCortexpy SOFTWARE (“SOFTWARE”). BY USING, COPYING, OR MODIFYING THE SOFTWARE, YOU (“LICENSEE”) AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+IMPORTANT: READ CAREFULLY. THIS LICENSE AGREEMENT (“AGREEMENT”) GOVERNS THE USE OF THE PyMCUcore SOFTWARE (“SOFTWARE”). BY USING, COPYING, OR MODIFYING THE SOFTWARE, YOU (“LICENSEE”) AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
 
 1. GRANT OF LICENSE
 
 1.1. Evaluation and Non-Commercial Use.  
-Subject to the terms of this Agreement, Licensee is hereby granted a non-exclusive, non-transferable, royalty-free license to use, copy, and modify the Software for personal, academic, or non-commercial evaluation purposes only. This includes use for academic research and contributions to the ARMCortexpy project.
+Subject to the terms of this Agreement, Licensee is hereby granted a non-exclusive, non-transferable, royalty-free license to use, copy, and modify the Software for personal, academic, or non-commercial evaluation purposes only. This includes use for academic research and contributions to the PyMCUcore project.
 
 1.2. Modifications.  
-Licensee may create modifications or derivative works of the Software solely for purposes permitted in Section 1.1. Licensee must promptly submit any modifications to the ARMCortexpy project as a contribution, through appropriate channels (e.g., pull requests).
+Licensee may create modifications or derivative works of the Software solely for purposes permitted in Section 1.1. Licensee must promptly submit any modifications to the PyMCUcore project as a contribution, through appropriate channels (e.g., pull requests).
 
 2. COMMERCIAL USE
 
@@ -19,7 +19,7 @@ Commercial use of the Software (including but not limited to use in connection w
 
 2.2. Commercial License.  
 To engage in commercial use of the Software, Licensee must:  
-(a) purchase a valid license key at https://armcortexpy.com;  
+(a) purchase a valid license key at https://PyMCUcore.com;  
 (b) maintain an active subscription for continued access to updates and technical support.
 
 2.3. Prohibited Activities.  
@@ -30,7 +30,7 @@ Licensee shall not:
 
 3. REDISTRIBUTION
 
-3.1. The Software and any modifications or derivative works may not be redistributed, published, or shared in any form, except as contributions to the official ARMCortexpy project under Section 1.2.
+3.1. The Software and any modifications or derivative works may not be redistributed, published, or shared in any form, except as contributions to the official PyMCUcore project under Section 1.2.
 
 4. INTELLECTUAL PROPERTY
 
@@ -38,7 +38,7 @@ Licensee shall not:
 The Software is and shall remain the intellectual property of the copyright holder. All rights not expressly granted herein are reserved.
 
 4.2. Trademarks.  
-This Agreement does not grant Licensee any rights to use the ARMCortexpy name, logo, or trademarks.
+This Agreement does not grant Licensee any rights to use the PyMCUcore name, logo, or trademarks.
 
 5. DISCLAIMER OF WARRANTY
 
@@ -54,7 +54,7 @@ Any breach of this Agreement terminates the rights granted herein. Upon terminat
 
 8. CONTACT
 
-For commercial licensing inquiries, please visit [https://armcortexpy.com](https://armcortexpy.com).
+For commercial licensing inquiries, please visit [https://PyMCUcore.com](https://PyMCUcore.com).
 
 ---
 
