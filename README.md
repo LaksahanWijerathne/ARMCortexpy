@@ -1,4 +1,4 @@
-# PyMCU 🐍⚙️
+# PyMCUcore 🐍⚙️
 
 **Pythonic syntax meets C/C++ performance**  
 *A transpiler that converts Python-like code to optimized HAL/C, making embedded development faster and more accessible.*
@@ -28,8 +28,8 @@ while True:
 
 ## Installation
 ```python
-pip install pymcu  # Python package
-pymcu install-tools  # ARM GCC, OpenOCD
+pip install pymcucore  # Python package
+pymcucore install-tools  # ARM GCC, OpenOCD
 ```
 
 ## Your First Project
@@ -38,7 +38,7 @@ pymcu install-tools  # ARM GCC, OpenOCD
 3. Compile & flash:
 
 ```python
-pymcu build blink.acpy --target stm32f411 --flash
+pymcucore build blink.acpy --target stm32f411 --flash
 ```
 
 ## Hardware Support 🎛️
