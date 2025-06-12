@@ -1,0 +1,61 @@
+ARMCortexpy Commercial & Source-Available License
+
+Copyright (c) 2025 KRDW Laksahan Wijerathna
+
+IMPORTANT: READ CAREFULLY. THIS LICENSE AGREEMENT (“AGREEMENT”) GOVERNS THE USE OF THE ARMCortexpy SOFTWARE (“SOFTWARE”). BY USING, COPYING, OR MODIFYING THE SOFTWARE, YOU (“LICENSEE”) AGREE TO BE BOUND BY THE TERMS OF THIS AGREEMENT.
+
+1. GRANT OF LICENSE
+
+1.1. Evaluation and Non-Commercial Use.  
+Subject to the terms of this Agreement, Licensee is hereby granted a non-exclusive, non-transferable, royalty-free license to use, copy, and modify the Software for personal, academic, or non-commercial evaluation purposes only. This includes use for academic research and contributions to the ARMCortexpy project.
+
+1.2. Modifications.  
+Licensee may create modifications or derivative works of the Software solely for purposes permitted in Section 1.1. Licensee must promptly submit any modifications to the ARMCortexpy project as a contribution, through appropriate channels (e.g., pull requests).
+
+2. COMMERCIAL USE
+
+2.1. Restrictions.  
+Commercial use of the Software (including but not limited to use in connection with any business, commercial product, or service) is strictly prohibited unless Licensee has obtained a valid commercial license and license key from the copyright holder (see Section 2.2).
+
+2.2. Commercial License.  
+To engage in commercial use of the Software, Licensee must:  
+(a) purchase a valid license key at https://armcortexpy.com;  
+(b) maintain an active subscription for continued access to updates and technical support.
+
+2.3. Prohibited Activities.  
+Licensee shall not:  
+(a) redistribute, sublicense, or resell the Software or any derivative work as part of any product or service;  
+(b) include the Software in a product or service offered to third parties without an appropriate commercial license;  
+(c) circumvent, bypass, or disable any license management, authentication, or account system included with the Software.
+
+3. REDISTRIBUTION
+
+3.1. The Software and any modifications or derivative works may not be redistributed, published, or shared in any form, except as contributions to the official ARMCortexpy project under Section 1.2.
+
+4. INTELLECTUAL PROPERTY
+
+4.1. Copyright and Ownership.  
+The Software is and shall remain the intellectual property of the copyright holder. All rights not expressly granted herein are reserved.
+
+4.2. Trademarks.  
+This Agreement does not grant Licensee any rights to use the ARMCortexpy name, logo, or trademarks.
+
+5. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+
+IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+7. TERMINATION
+
+Any breach of this Agreement terminates the rights granted herein. Upon termination, Licensee must cease all use of the Software and destroy all copies in Licensee’s possession.
+
+8. CONTACT
+
+For commercial licensing inquiries, please visit [https://armcortexpy.com](https://armcortexpy.com).
+
+---
+
+Copyright (c) 2025 KRDW Laksahan Wijerathna. All rights reserved.
