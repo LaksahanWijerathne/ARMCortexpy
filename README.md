@@ -5,7 +5,7 @@
 
 ```python
 # Example (blink.acpy)
-import pymcu.stm32 as stm
+import pymcucore.stm32 as stm
 led = stm.GPIO('PA5', stm.OUT)
 while True:
     led.toggle()
