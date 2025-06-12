@@ -1,11 +1,11 @@
-# ARMCortexpy 🐍⚙️
+# PyMCU 🐍⚙️
 
-**Pythonic syntax meets ARM Cortex performance**  
-*A transpiler that converts Python-like code to optimized STM32 HAL/C, making embedded development faster and more accessible.*
+**Pythonic syntax meets C/C++ performance**  
+*A transpiler that converts Python-like code to optimized HAL/C, making embedded development faster and more accessible.*
 
 ```python
 # Example (blink.acpy)
-import armcortexpy.stm32 as stm
+import pymcu.stm32 as stm
 led = stm.GPIO('PA5', stm.OUT)
 while True:
     led.toggle()
@@ -16,11 +16,11 @@ while True:
 
 * Python-like syntax with strict typing for reliability
 
-* Direct STM32 HAL mapping – no hidden overhead
+* Direct HAL mapping – no hidden overhead
 
 * Batteries-included peripherals (GPIO, UART, I2C, etc.)
 
-* STM32CubeMX integration – sync your .ioc configs
+* STM32CubeMX / MCU_SDK integration – sync your configs
 
 * Compiles to clean C with LLVM optimization support
 
@@ -28,8 +28,8 @@ while True:
 
 ## Installation
 ```python
-pip install arm-cortexpy  # Python package
-armcortexpy install-tools  # ARM GCC, OpenOCD
+pip install pymcu  # Python package
+pymcu install-tools  # ARM GCC, OpenOCD
 ```
 
 ## Your First Project
@@ -38,7 +38,7 @@ armcortexpy install-tools  # ARM GCC, OpenOCD
 3. Compile & flash:
 
 ```python
-armcortexpy build blink.acpy --target stm32f411 --flash
+pymcu build blink.acpy --target stm32f411 --flash
 ```
 
 ## Hardware Support 🎛️
